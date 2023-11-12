@@ -19,4 +19,7 @@
     - Write a JavaScript exercise to get the filename extension.
 
 1. Compute sum
-    - Write a JavaScript program to compute the sum of the two given integers. If the two values are the same, then return triple their sum. 
+    - Write a JavaScript program to compute the sum of the two given integers. If the two values are the same, then return triple their sum.
+
+1. Fifty Fifty
+    - Write a JavaScript program to check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
