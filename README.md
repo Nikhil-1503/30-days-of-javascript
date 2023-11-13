@@ -23,3 +23,6 @@
 
 1. Fifty Fifty
     - Write a JavaScript program to check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
+
+1. Get Subset
+    - Write a JavaScript function to get all possible subsets with a fixed length (for example 2) combinations in an array.  
