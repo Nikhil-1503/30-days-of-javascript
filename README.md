@@ -26,3 +26,6 @@
 
 1. Get Subset
     - Write a JavaScript function to get all possible subsets with a fixed length (for example 2) combinations in an array.  
+
+1. Duplicate
+    - Write a JavaScript function to find the first not repeated character.  
