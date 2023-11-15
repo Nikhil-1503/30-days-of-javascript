@@ -29,3 +29,6 @@
 
 1. Duplicate
     - Write a JavaScript function to find the first not repeated character.  
+
+1. Bubble sort
+    - Write a JavaScript function to apply the Bubble Sort algorithm.
