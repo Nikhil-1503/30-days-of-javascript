@@ -33,4 +33,8 @@
 1. Bubble sort
     - Write a JavaScript function to apply the Bubble Sort algorithm.
 
-1. Write a JavaScript program to list the properties of a JavaScript object.
+1. Object property
+    - Write a JavaScript program to list the properties of a JavaScript object.
+
+1. Clock
+    - Write a JavaScript program to create a clock.
