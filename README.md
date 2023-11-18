@@ -38,3 +38,7 @@
 
 1. Clock
     - Write a JavaScript program to create a clock.
+
+1. Memoize
+    - Write a function that takes a function as its argument and returns a memoized version of the function.
+
