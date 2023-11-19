@@ -42,3 +42,5 @@
 1. Memoize
     - Write a function that takes a function as its argument and returns a memoized version of the function.
 
+1. Concatenate
+    - Write a JavaScript function to concatenate a given string n times (default is 1).
