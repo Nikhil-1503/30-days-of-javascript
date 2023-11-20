@@ -44,3 +44,6 @@
 
 1. Concatenate
     - Write a JavaScript function to concatenate a given string n times (default is 1).
+
+1. String chop
+    - Create a string_chop function that takes a string and chop factor(size) and chops out the string into the factor(size) that has been passed.
