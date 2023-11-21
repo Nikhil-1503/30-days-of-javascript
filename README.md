@@ -47,3 +47,6 @@
 
 1. String chop
     - Create a string_chop function that takes a string and chop factor(size) and chops out the string into the factor(size) that has been passed.
+
+1. Sum Reduce
+    - Write a JavaScript function named sumArray that takes an array of numbers and returns the sum of all the numbers in the array using the reduce() method.
