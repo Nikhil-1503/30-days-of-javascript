@@ -50,3 +50,9 @@
 
 1. Sum Reduce
     - Write a JavaScript function named sumArray that takes an array of numbers and returns the sum of all the numbers in the array using the reduce() method.
+    
+1. Filter odd
+    - Write a JavaScript function named filterOutOdd that uses the filter() method to filter out odd numbers from an array. 
+
+1. Map double
+    - Write a JavaScript function named doubleValues that takes an array of numbers and returns a new array where each number is doubled using the map() method.
