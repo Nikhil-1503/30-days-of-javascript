@@ -56,3 +56,6 @@
 
 1. Map double
     - Write a JavaScript function named doubleValues that takes an array of numbers and returns a new array where each number is doubled using the map() method.
+
+1. Every positive
+    - Write a JavaScript function named allPositive that checks whether all numbers in a given array are positive using the every() method.
