@@ -59,3 +59,6 @@
 
 1. Every positive
     - Write a JavaScript function named allPositive that checks whether all numbers in a given array are positive using the every() method.
+
+1. Find negative
+    - Write a JavaScript function named findFirstNegative that finds and returns the first negative number in an array using the find() method.
