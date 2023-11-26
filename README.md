@@ -62,3 +62,6 @@
 
 1. Find negative
     - Write a JavaScript function named findFirstNegative that finds and returns the first negative number in an array using the find() method.
+
+1. Async function
+    - Write an asynchronous loop function that iterates over an array and performs an asynchronous operation on each element.
