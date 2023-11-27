@@ -65,3 +65,6 @@
 
 1. Async function
     - Write an asynchronous loop function that iterates over an array and performs an asynchronous operation on each element.
+
+1. Deeply equal
+    - Write a function to deeply compare two objects for equality.
