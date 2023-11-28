@@ -68,3 +68,6 @@
 
 1. Deeply equal
     - Write a function to deeply compare two objects for equality.
+
+1. Closure
+    - Write a function counter that returns a new function on each invocation. The returned function, when called, should increment the counter value and return it.
