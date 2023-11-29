@@ -71,3 +71,6 @@
 
 1. Closure
     - Write a function counter that returns a new function on each invocation. The returned function, when called, should increment the counter value and return it.
+
+1. Debounce
+    - Implement a debounce function that takes a function and a delay as arguments. The returned function should ensure that the original function is not called more than once in the specified delay.  
