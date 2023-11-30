@@ -74,3 +74,6 @@
 
 1. Debounce
     - Implement a debounce function that takes a function and a delay as arguments. The returned function should ensure that the original function is not called more than once in the specified delay.  
+
+1. Fun with API
+    - Write a function getData that returns a Promise. Use this function to fetch data from two different APIs sequentially, and return the combined result.
