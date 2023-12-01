@@ -77,3 +77,8 @@
 
 1. Fun with API
     - Write a function getData that returns a Promise. Use this function to fetch data from two different APIs sequentially, and return the combined result.
+
+1. Combination trouble
+    - Write a function calculateTotal that takes an array of numbers, filters out the even numbers, squares the remaining numbers, and then calculates their sum.
+
+
