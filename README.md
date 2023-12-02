@@ -81,4 +81,7 @@
 1. Combination trouble
     - Write a function calculateTotal that takes an array of numbers, filters out the even numbers, squares the remaining numbers, and then calculates their sum.
 
+1. Function range
+    - Write a generator function range that takes two arguments, start and end, and yields all the numbers in that range.
+
 
