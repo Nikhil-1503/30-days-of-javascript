@@ -84,4 +84,7 @@
 1. Function range
     - Write a generator function range that takes two arguments, start and end, and yields all the numbers in that range.
 
+1. Proxy proxy
+    - Create a proxy object that intercepts and logs all property access
+
 
