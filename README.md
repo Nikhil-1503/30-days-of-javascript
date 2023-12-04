@@ -87,4 +87,7 @@
 1. Proxy proxy
     - Create a proxy object that intercepts and logs all property access
 
+1. Promise racer
+    - Write a function raceWithTimeout that takes an array of promises and a timeout value. The function should resolve when the first promise resolves or reject if none resolve within the given timeout.
+
 
