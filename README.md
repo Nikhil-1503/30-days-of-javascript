@@ -90,4 +90,7 @@
 1. Promise racer
     - Write a function raceWithTimeout that takes an array of promises and a timeout value. The function should resolve when the first promise resolves or reject if none resolve within the given timeout.
 
+1. Full throttle
+    - Implement a throttle function that ensures a given function is not called more than once in a specified time interval.
+
 
